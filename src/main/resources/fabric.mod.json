@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "rustingiron",
+  "version": "${version}",
+  "name": "RustingIron",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/joppebijlsma/RustingIron"
+  },
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.joppebijlsma.rustingiron.client.RustingIronClient"
+    ],
+    "main": [
+      "com.joppebijlsma.rustingiron.RustingIron"
+    ]
+  },
+  "mixins": [
+    "rustingiron.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

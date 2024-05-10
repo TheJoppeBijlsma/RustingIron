@@ -1,0 +1,28 @@
+{
+    "replace": false,
+    "values": [
+        "rustingiron:exposed_iron",
+        "rustingiron:weathered_iron",
+        "rustingiron:rusted_iron",
+        "rustingiron:iron_slab",
+        "rustingiron:exposed_iron_slab",
+        "rustingiron:weathered_iron_slab",
+        "rustingiron:rusted_iron_slab",
+        "rustingiron:iron_stairs",
+        "rustingiron:exposed_iron_stairs",
+        "rustingiron:weathered_iron_stairs",
+        "rustingiron:rusted_iron_stairs",
+        "rustingiron:waxed_iron_block",
+        "rustingiron:waxed_exposed_iron",
+        "rustingiron:waxed_weathered_iron",
+        "rustingiron:waxed_rusted_iron",
+        "rustingiron:waxed_iron_slab",
+        "rustingiron:waxed_exposed_iron_slab",
+        "rustingiron:waxed_weathered_iron_slab",
+        "rustingiron:waxed_rusted_iron_slab",
+        "rustingiron:waxed_iron_stairs",
+        "rustingiron:waxed_exposed_iron_stairs",
+        "rustingiron:waxed_weathered_iron_stairs",
+        "rustingiron:waxed_rusted_iron_stairs"
+    ]
+}

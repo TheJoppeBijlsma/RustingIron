@@ -1,0 +1,61 @@
+{
+	"parent": "minecraft:recipes/root",
+	"criteria": {
+		"has_iron_ingot": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:iron_ingot"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_iron_ingot"
+		]
+	],
+	"rewards": {
+		"recipes": [
+            "rustingiron:iron_slab",
+			"rustingiron:exposed_iron_slab",
+            "rustingiron:weathered_iron_slab",
+            "rustingiron:rusted_iron_slab",
+            "rustingiron:waxed_iron_slab",
+			"rustingiron:waxed_exposed_iron_slab",
+            "rustingiron:waxed_weathered_iron_slab",
+            "rustingiron:waxed_rusted_iron_slab",
+            "rustingiron:waxed_iron_slab_from_honeycomb",
+			"rustingiron:waxed_exposed_iron_slab_from_honeycomb",
+            "rustingiron:waxed_weathered_iron_slab_from_honeycomb",
+            "rustingiron:waxed_rusted_iron_slab_from_honeycomb",
+            "rustingiron:iron_stairs",
+			"rustingiron:exposed_iron_stairs",
+            "rustingiron:weathered_iron_stairs",
+            "rustingiron:rusted_iron_stairs",
+            "rustingiron:waxed_iron_stairs",
+			"rustingiron:waxed_exposed_iron_stairs",
+            "rustingiron:waxed_weathered_iron_stairs",
+            "rustingiron:waxed_rusted_iron_stairs",
+            "rustingiron:waxed_iron_stairs_from_honeycomb",
+			"rustingiron:waxed_exposed_iron_stairs_from_honeycomb",
+            "rustingiron:waxed_weathered_iron_stairs_from_honeycomb",
+            "rustingiron:waxed_rusted_iron_stairs_from_honeycomb",
+            "rustingiron:waxed_iron_block",
+            "rustingiron:waxed_exposed_iron",
+            "rustingiron:waxed_weathered_iron",
+            "rustingiron:waxed_weathered_iron",
+            "rustingiron:iron_ingot_from_exposed_iron",
+            "rustingiron:iron_ingot_from_weathered_iron",
+            "rustingiron:iron_ingot_from_rusted_iron",
+            "rustingiron:iron_ingot_from_waxed_iron_block",
+            "rustingiron:iron_ingot_from_waxed_exposed_iron",
+            "rustingiron:iron_ingot_from_waxed_weathered_iron",
+            "rustingiron:iron_ingot_from_waxed_rusted_iron"
+		]
+	}
+}

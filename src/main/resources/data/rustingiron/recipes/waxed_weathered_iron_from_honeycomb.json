@@ -1,0 +1,15 @@
+{
+"type": "minecraft:crafting_shapeless",
+"group": "waxed_weathered_iron",
+"ingredients": [
+	{
+		"item": "rustingiron:weathered_iron"
+	},
+	{
+		"item": "minecraft:honeycomb"
+	}
+],
+"result": {
+	"item": "rustingiron:waxed_weathered_iron"
+}
+}

@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "iron_slab",
+	"ingredients": [
+		{
+			"item": "rustingiron:iron_slab"
+		},
+		{
+			"item": "minecraft:honeycomb"
+		}
+	],
+	"result": {
+		"item": "rustingiron:waxed_iron_slab"
+	}
+}

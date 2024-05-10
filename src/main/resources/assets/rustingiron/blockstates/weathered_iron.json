@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "rustingiron:block/weathered_iron"
+    }
+  }
+}

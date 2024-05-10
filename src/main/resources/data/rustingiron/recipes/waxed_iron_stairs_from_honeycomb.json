@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "iron_stairs",
+	"ingredients": [
+		{
+			"item": "rustingiron:iron_stairs"
+		},
+		{
+			"item": "minecraft:honeycomb"
+		}
+	],
+	"result": {
+		"item": "rustingiron:waxed_iron_stairs"
+	}
+}

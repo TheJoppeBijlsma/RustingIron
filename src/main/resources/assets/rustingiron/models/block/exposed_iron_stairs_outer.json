@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "rustingiron:block/exposed_iron",
+    "top": "rustingiron:block/exposed_iron",
+    "side": "rustingiron:block/exposed_iron"
+  }
+}

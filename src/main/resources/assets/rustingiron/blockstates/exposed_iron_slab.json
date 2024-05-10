@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "rustingiron:block/exposed_iron_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/iron_block"
+    },
+    "type": {
+      "model": "rustingiron:block/exposed_iron_slab_top"
+    }
+  }
+}
